@@ -30,6 +30,9 @@ node *create(){
 	return head;
 
 }
+
+test
+
 void print(node *p){
 	while (1){
 	if(p->next == NULL){
